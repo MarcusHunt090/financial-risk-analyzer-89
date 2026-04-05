@@ -1,0 +1,382 @@
+Sentence,Label,risk_level,topic
+Traders said trade tensions intensify and threaten cross border supply chains according to new data.,negative,high,trade
+Crude remains stable in quiet trading in the latest report.,neutral,low,oil
+Transport networks recover and reduce pressure on producers; while analysts debated next steps during early trading.,positive,low,supply_chain
+Higher interest rates squeeze borrowing and slow business activity late Thursday.,negative,high,rates
+"Prices remain broadly steady despite mixed production signals in a fresh update, while analysts debated next steps.",neutral,low,oil
+"Core inflation surprises to the upside and unsettles investors late Thursday, even as demand remained uneven.",negative,high,inflation
+Weak spending trends weigh on the retail outlook; while executives urged caution after recent policy changes.,negative,medium,retail
+Shipping activity stabilizes after recent disruptions amid shifting economic conditions.,neutral,low,supply_chain
+"Businesses welcome signs of smoother international trade flows late Thursday, despite earlier optimism.",positive,low,trade
+"Lower logistics costs help businesses rebuild margins in a fresh update, while analysts debated next steps.",positive,low,supply_chain
+Bank posts stable results while monitoring credit conditions; despite earlier optimism in a fresh update.,neutral,medium,banking
+Cross border activity remains balanced in the latest report; as volatility stayed elevated this quarter.,neutral,medium,trade
+Lender says deposits remain broadly steady this quarter as analysts reassess the outlook.,neutral,medium,banking
+"U.S. markets reacted after cloud growth accelerates and lifts the technology outlook, while analysts debated next steps.",positive,low,technology
+"Global investors responded as broad gains lift equities across major sectors, as investors looked for clearer guidance.",positive,low,markets
+"Markets trade mixed as investors assess incoming data in the latest report, with policymakers watching closely.",neutral,low,markets
+Lower crude costs reduce pressure on transport firms; while executives urged caution after recent policy changes.,positive,low,oil
+"Logistics bottlenecks create shortages across key industries this quarter, while analysts debated next steps.",negative,medium,supply_chain
+Company officials said enterprise software demand remains stable despite budget caution amid shifting economic conditions.,neutral,low,technology
+Businesses monitor trade policy developments closely in the latest report.,neutral,medium,trade
+"Traders said company misses earnings expectations after weaker demand and higher costs, as businesses adjusted forecasts.",negative,medium,earnings
+"Oil futures stay range bound as analysts watch inventories in the latest report, even as demand remained uneven.",neutral,low,oil
+"Policymakers signal rates may stay elevated for some time after recent policy changes, even as demand remained uneven.",neutral,medium,rates
+Businesses report mixed logistics performance across regions; as businesses adjusted forecasts during the latest earnings season.,neutral,low,supply_chain
+Analysts noted that energy prices fall after major producers lift output in a fresh update.,positive,low,oil
+Cross border demand strengthens and helps manufacturers; while analysts debated next steps amid shifting economic conditions.,positive,low,trade
+"Workforce reduction widens as losses mount in the latest report, with policymakers watching closely.",negative,high,layoffs
+Loss provisions jump as borrowers struggle with repayments; while executives urged caution this quarter.,negative,high,banking
+Stocks move sideways ahead of a key policy decision; as volatility stayed elevated in a fresh update.,neutral,low,markets
+Housing affordability worsens as prices and rates stay high; while executives urged caution amid shifting economic conditions.,negative,high,housing
+Traders said profit jumps as demand improves across key business lines amid shifting economic conditions.,positive,low,earnings
+"Analysts say trade conditions are stable but fragile in the latest report, with policymakers watching closely.",neutral,medium,trade
+Analysts noted that higher interest rates squeeze borrowing and slow business activity as analysts reassess the outlook.,negative,high,rates
+Profit jumps as demand improves across key business lines; despite earlier optimism after recent policy changes.,positive,low,earnings
+"Strong capital levels improve confidence in the sector during the latest earnings season, as investors looked for clearer guidance.",positive,low,banking
+"Traders said supply fears send crude sharply higher and pressure inflation, while executives urged caution.",negative,medium,oil
+"Financial institution maintains outlook after mixed results in the latest report, as volatility stayed elevated.",neutral,medium,banking
+Core inflation surprises to the upside and unsettles investors; despite earlier optimism this quarter.,negative,high,inflation
+Bank warns of credit stress and rising loan losses; with policymakers watching closely late Thursday.,negative,high,banking
+U.S. markets reacted after bank beats expectations on stronger lending and deposits in the latest report.,positive,low,banking
+Inflation reaccelerates as housing and food costs climb faster than expected during the latest earnings season.,negative,high,inflation
+"Energy prices fall after major producers lift output after recent policy changes, as volatility stayed elevated.",positive,low,oil
+Builders report uneven but manageable market conditions; as investors looked for clearer guidance after recent policy changes.,neutral,medium,housing
+Analysts noted that company misses earnings expectations after weaker demand and higher costs as analysts reassess the outlook.,negative,medium,earnings
+"Lower logistics costs help businesses rebuild margins in the latest report, with policymakers watching closely.",positive,low,supply_chain
+Tech company raises forecast after strong product demand; as businesses adjusted forecasts after recent policy changes.,positive,low,technology
+Industry outlook remains mixed but generally stable; as volatility stayed elevated this quarter.,neutral,low,technology
+Markets trade mixed as investors assess incoming data in a fresh update.,neutral,low,markets
+"Bank reports moderate loan growth and stable fee income in a fresh update, while analysts debated next steps.",neutral,medium,banking
+"Analysts noted that profit jumps as demand improves across key business lines, as businesses adjusted forecasts.",positive,low,earnings
+Oil rally raises concerns about transport and manufacturing costs; despite earlier optimism in the latest report.,negative,medium,oil
+Economists warned that chipmaker posts better than expected results as demand improves in the latest report.,positive,low,technology
+Residential sales improve after financing conditions ease after recent policy changes.,positive,low,housing
+Hiring in priority areas offsets some restructuring cuts; with policymakers watching closely this quarter.,positive,low,layoffs
+"Healthy credit quality supports upbeat lender results in a fresh update, with policymakers watching closely.",positive,low,banking
+"Cloud revenue misses estimates and weighs on shares in a fresh update, even as demand remained uneven.",negative,medium,technology
+Company posts modest growth and a cautious outlook; as businesses adjusted forecasts during the latest earnings season.,neutral,low,earnings
+Healthy margins help deliver better than expected earnings; as businesses adjusted forecasts this quarter.,positive,low,earnings
+Residential trends suggest a cautious but stable market according to new data.,neutral,medium,housing
+Prices remain broadly steady despite mixed production signals; while executives urged caution late Thursday.,neutral,low,oil
+"Supply networks remain stable despite isolated delays amid shifting economic conditions, as investors looked for clearer guidance.",neutral,low,supply_chain
+Profit jumps as demand improves across key business lines after recent policy changes.,positive,low,earnings
+"Oil rally raises concerns about transport and manufacturing costs amid shifting economic conditions, as investors looked for clearer guidance.",negative,medium,oil
+"Global investors responded as supply chain pressures ease as shipping times improve, as investors looked for clearer guidance.",positive,low,supply_chain
+Economists warned that oil decline improves sentiment in fuel sensitive industries amid shifting economic conditions.,positive,low,oil
+"U.S. markets reacted after higher defaults pressure the sector's outlook, with policymakers watching closely.",negative,high,banking
+"U.S. markets reacted after analysts debate how long policy rates will stay restrictive, as investors looked for clearer guidance.",neutral,medium,rates
+Analysts noted that lender says deposits remain broadly steady this quarter after recent policy changes.,neutral,medium,banking
+"Analysts noted that cloud revenue misses estimates and weighs on shares, while executives urged caution.",negative,medium,technology
+"Cloud growth accelerates and lifts the technology outlook late Thursday, as investors looked for clearer guidance.",positive,low,technology
+"Broad gains lift equities across major sectors during the latest earnings season, while executives urged caution.",positive,low,markets
+Economists warned that supply chain pressures ease as shipping times improve during early trading.,positive,low,supply_chain
+"Global investors responded as delivery times show little change in the latest update, as businesses adjusted forecasts.",neutral,low,supply_chain
+"Global investors responded as stocks move sideways ahead of a key policy decision, as investors looked for clearer guidance.",neutral,low,markets
+"Company officials said company announces mass layoffs as restructuring deepens, with policymakers watching closely.",negative,high,layoffs
+Price trends remain uneven across major spending categories this quarter.,neutral,medium,inflation
+Lower price pressures lift hopes for improved consumer spending after recent policy changes.,positive,low,inflation
+Banking shares fall as deposit outflows raise concern late Thursday.,negative,high,banking
+"Company outlines phased workforce changes in selected units this quarter, with policymakers watching closely.",neutral,medium,layoffs
+Analysts noted that consumer demand remains steady but uneven among merchants this quarter.,neutral,low,retail
+"Retail data suggests cautious shopping patterns in a fresh update, while analysts debated next steps.",neutral,low,retail
+Rising rates weigh on housing and investment plans; as volatility stayed elevated this quarter.,negative,high,rates
+Retailer warns of softer demand in the months ahead after recent policy changes.,negative,medium,retail
+Traders said quarterly profit remains stable despite mixed market conditions in a fresh update.,neutral,low,earnings
+U.S. markets reacted after crude surges on geopolitical tension and output concerns in the latest report.,negative,medium,oil
+"Tech company reports steady growth in core segments after recent policy changes, even as demand remained uneven.",neutral,low,technology
+Global investors responded as enterprise software demand remains stable despite budget caution late Thursday.,neutral,low,technology
+Interest rate outlook remains uncertain after mixed economic data; despite earlier optimism amid shifting economic conditions.,neutral,medium,rates
+"Global investors responded as profit falls sharply as margins contract across major segments, as businesses adjusted forecasts.",negative,medium,earnings
+"Thousands of jobs are cut after weaker than expected sales amid shifting economic conditions, as volatility stayed elevated.",negative,high,layoffs
+Analysts noted that quarterly profit remains stable despite mixed market conditions after recent policy changes.,neutral,low,earnings
+"Policymakers signal rates may stay elevated for some time in the latest report, as volatility stayed elevated.",neutral,medium,rates
+"Enterprise software demand remains stable despite budget caution late Thursday, as businesses adjusted forecasts.",neutral,low,technology
+"Manufacturers report smoother deliveries and better inventory flow amid shifting economic conditions, as investors looked for clearer guidance.",positive,low,supply_chain
+Improved supply conditions support more efficient production amid shifting economic conditions.,positive,low,supply_chain
+"Equity selloff accelerates on policy uncertainty and softer growth this quarter, as businesses adjusted forecasts.",negative,medium,markets
+Borrowing conditions improve as rate fears fade after recent policy changes.,positive,low,rates
+Consumer demand remains steady but uneven among merchants this quarter.,neutral,low,retail
+Traders said shipping activity stabilizes after recent disruptions after recent policy changes.,neutral,low,supply_chain
+Economists say inflation progress has slowed but not reversed according to new data.,neutral,medium,inflation
+"Economists warned that cross border demand strengthens and helps manufacturers, despite earlier optimism.",positive,low,trade
+Lender faces investigation after reporting major losses; with policymakers watching closely late Thursday.,negative,high,banking
+Management highlights balanced trends across technology services; while analysts debated next steps in a fresh update.,neutral,low,technology
+Rate expectations move higher and pressure consumer credit demand; despite earlier optimism this quarter.,negative,high,rates
+Indexes finish sharply lower after disappointing economic signals; despite earlier optimism in a fresh update.,negative,medium,markets
+"Analysts noted that export demand weakens as global trade conditions deteriorate, despite earlier optimism.",negative,high,trade
+"Strong capital levels improve confidence in the sector late Thursday, as businesses adjusted forecasts.",positive,low,banking
+Executives confirm targeted layoffs as part of a restructuring review; as businesses adjusted forecasts after recent policy changes.,neutral,medium,layoffs
+"Company posts modest growth and a cautious outlook as analysts reassess the outlook, as investors looked for clearer guidance.",neutral,low,earnings
+"Traders said thousands of jobs are cut after weaker than expected sales, despite earlier optimism.",negative,high,layoffs
+"Investor optimism pushes markets higher after positive data according to new data, with policymakers watching closely.",positive,low,markets
+"U.S. markets reacted after lower crude costs reduce pressure on transport firms, while analysts debated next steps.",positive,low,oil
+Businesses warn that tariff pressure will hurt margins; even as demand remained uneven as analysts reassess the outlook.,negative,high,trade
+"Price trends remain uneven across major spending categories in the latest report, as businesses adjusted forecasts.",neutral,medium,inflation
+"Traders said company announces mass layoffs as restructuring deepens, even as demand remained uneven.",negative,high,layoffs
+"Global investors responded as earnings release reflects steady performance across core operations, with policymakers watching closely.",neutral,low,earnings
+"Prices rise at the slowest pace in months, helping households in a fresh update.",positive,low,inflation
+Policymakers signal rates may stay elevated for some time; as volatility stayed elevated according to new data.,neutral,medium,rates
+"Builders report uneven but manageable market conditions during the latest earnings season, while executives urged caution.",neutral,medium,housing
+"Bond markets show limited movement as traders await guidance according to new data, as investors looked for clearer guidance.",neutral,medium,rates
+"Housing affordability worsens as prices and rates stay high according to new data, as investors looked for clearer guidance.",negative,high,housing
+Analysts noted that job reductions remain limited under the latest efficiency plan during the latest earnings season.,neutral,medium,layoffs
+"Residential sales improve after financing conditions ease during the latest earnings season, as investors looked for clearer guidance.",positive,low,housing
+"Borrowing costs climb and increase pressure on leveraged firms late Thursday, as businesses adjusted forecasts.",negative,high,rates
+Analysts noted that earnings release reflects steady performance across core operations according to new data.,neutral,low,earnings
+Company announces mass layoffs as restructuring deepens; with policymakers watching closely after recent policy changes.,negative,high,layoffs
+"Energy prices fall after major producers lift output during early trading, while executives urged caution.",positive,low,oil
+Major indexes rise as confidence returns to markets; with policymakers watching closely this quarter.,positive,low,markets
+Sales decline raises concern about household confidence this quarter.,negative,medium,retail
+"Energy prices fall after major producers lift output in the latest report, with policymakers watching closely.",positive,low,oil
+Company officials said indexes finish sharply lower after disappointing economic signals during early trading.,negative,medium,markets
+Lower logistics costs help businesses rebuild margins; as businesses adjusted forecasts as analysts reassess the outlook.,positive,low,supply_chain
+Operational recovery softens the impact of planned job cuts; as businesses adjusted forecasts after recent policy changes.,positive,low,layoffs
+Executives confirm targeted layoffs as part of a restructuring review; as businesses adjusted forecasts late Thursday.,neutral,medium,layoffs
+"Delivery problems increase costs and disrupt production schedules during early trading, as investors looked for clearer guidance.",negative,medium,supply_chain
+Stocks slide as recession fears and weak data unsettle investors; while analysts debated next steps in the latest report.,negative,medium,markets
+"Store traffic falls and pressures quarterly sales according to new data, as investors looked for clearer guidance.",negative,medium,retail
+"Prices rise at the slowest pace in months, helping households amid shifting economic conditions, even as demand remained uneven.",positive,low,inflation
+"U.S. markets reacted after technology shares rise on upbeat guidance and solid revenue, while analysts debated next steps.",positive,low,technology
+"Company raises full year guidance after standout quarter according to new data, while analysts debated next steps.",positive,low,earnings
+Global investors responded as profit jumps as demand improves across key business lines during the latest earnings season.,positive,low,earnings
+"U.S. markets reacted after consumer demand remains steady but uneven among merchants, while executives urged caution.",neutral,low,retail
+Resilient consumer spending supports upbeat sales growth as analysts reassess the outlook.,positive,low,retail
+Cross border activity remains balanced in the latest report; as businesses adjusted forecasts during the latest earnings season.,neutral,medium,trade
+"Company officials said energy costs spike as traders price in lower supply, as businesses adjusted forecasts.",negative,medium,oil
+Traders said profit jumps as demand improves across key business lines as analysts reassess the outlook.,positive,low,earnings
+Analysts noted that cloud growth accelerates and lifts the technology outlook after recent policy changes.,positive,low,technology
+U.S. markets reacted after mortgage demand stabilizes after recent volatility this quarter.,neutral,medium,housing
+Supply chain conditions remain uneven but manageable in the latest report.,neutral,low,supply_chain
+Cross border demand strengthens and helps manufacturers as analysts reassess the outlook.,positive,low,trade
+Shipping activity stabilizes after recent disruptions; despite earlier optimism late Thursday.,neutral,low,supply_chain
+Trade dispute sparks concern about slower international growth during early trading.,negative,high,trade
+Stocks rally on strong earnings and easing inflation pressures; as businesses adjusted forecasts as analysts reassess the outlook.,positive,low,markets
+Economists say inflation progress has slowed but not reversed in a fresh update.,neutral,medium,inflation
+Healthy margins help deliver better than expected earnings; as investors looked for clearer guidance late Thursday.,positive,low,earnings
+Lower yields support growth sensitive sectors amid shifting economic conditions.,positive,low,rates
+"Bank reports moderate loan growth and stable fee income after recent policy changes, while analysts debated next steps.",neutral,medium,banking
+"Improving confidence helps boost shopping demand late Thursday, as businesses adjusted forecasts.",positive,low,retail
+"Borrowing costs climb and increase pressure on leveraged firms this quarter, as businesses adjusted forecasts.",negative,high,rates
+Strong capital levels improve confidence in the sector; despite earlier optimism late Thursday.,positive,low,banking
+Interest rate outlook remains uncertain after mixed economic data; as investors looked for clearer guidance after recent policy changes.,neutral,medium,rates
+Industry outlook remains mixed but generally stable; while executives urged caution as analysts reassess the outlook.,neutral,low,technology
+"U.S. markets reacted after cheaper oil supports hopes for softer inflation ahead, as volatility stayed elevated.",positive,low,oil
+"Bank shares rise after better than expected earnings in the latest report, while executives urged caution.",positive,low,banking
+Company officials said energy markets show modest moves amid balanced conditions as analysts reassess the outlook.,neutral,low,oil
+Cloud revenue misses estimates and weighs on shares during early trading.,negative,medium,technology
+Home sales slump as mortgage costs remain elevated; with policymakers watching closely according to new data.,negative,high,housing
+"Company scales back planned layoffs after conditions improve as analysts reassess the outlook, with policymakers watching closely.",positive,low,layoffs
+"Analysts noted that management expands job cuts amid slowing demand, as investors looked for clearer guidance.",negative,high,layoffs
+Traders said retail sales rise as shoppers respond to promotions after recent policy changes.,positive,low,retail
+"Global investors responded as policymakers signal rates may stay elevated for some time, with policymakers watching closely.",neutral,medium,rates
+"Healthy margins help deliver better than expected earnings in the latest report, despite earlier optimism.",positive,low,earnings
+Higher interest rates squeeze borrowing and slow business activity; as businesses adjusted forecasts after recent policy changes.,negative,high,rates
+Analysts noted that bank warns of credit stress and rising loan losses in the latest report.,negative,high,banking
+Investor optimism pushes markets higher after positive data; while analysts debated next steps late Thursday.,positive,low,markets
+Price trends remain uneven across major spending categories; as volatility stayed elevated during the latest earnings season.,neutral,medium,inflation
+Traders said executives report balanced retail trends this quarter according to new data.,neutral,low,retail
+"Traders said energy costs spike as traders price in lower supply, with policymakers watching closely.",negative,medium,oil
+Traders said stocks rally on strong earnings and easing inflation pressures amid shifting economic conditions.,positive,low,markets
+"Economists warned that sticky service inflation keeps pressure on household budgets, while executives urged caution.",negative,high,inflation
+"Executives report balanced retail trends this quarter during early trading, with policymakers watching closely.",neutral,low,retail
+"Weak spending trends weigh on the retail outlook during early trading, while executives urged caution.",negative,medium,retail
+"Improving confidence helps boost shopping demand during early trading, despite earlier optimism.",positive,low,retail
+"Interest rate outlook remains uncertain after mixed economic data after recent policy changes, as businesses adjusted forecasts.",neutral,medium,rates
+Inflation cools more than expected as energy and food prices soften; as volatility stayed elevated amid shifting economic conditions.,positive,low,inflation
+Retail data suggests cautious shopping patterns in a fresh update.,neutral,low,retail
+"Traders said supply networks remain stable despite isolated delays, even as demand remained uneven.",neutral,low,supply_chain
+"Oil futures stay range bound as analysts watch inventories after recent policy changes, while executives urged caution.",neutral,low,oil
+Mortgage demand stabilizes after recent volatility; as investors looked for clearer guidance late Thursday.,neutral,medium,housing
+"U.S. markets reacted after lower yields support growth sensitive sectors, while executives urged caution.",positive,low,rates
+Banking shares fall as deposit outflows raise concern in the latest report.,negative,high,banking
+"Traders said management highlights balanced trends across technology services, while analysts debated next steps.",neutral,low,technology
+Bank shares rise after better than expected earnings this quarter.,positive,low,banking
+"Home prices show modest movement in the latest data as analysts reassess the outlook, with policymakers watching closely.",neutral,medium,housing
+Profit jumps as demand improves across key business lines; while analysts debated next steps amid shifting economic conditions.,positive,low,earnings
+"Retailer posts better than expected quarterly performance late Thursday, as volatility stayed elevated.",positive,low,retail
+U.S. markets reacted after bond yields jump as investors brace for tighter policy in the latest report.,negative,high,rates
+"Cheaper oil supports hopes for softer inflation ahead during early trading, as volatility stayed elevated.",positive,low,oil
+"Manufacturers warn of continued supply chain strain amid shifting economic conditions, as investors looked for clearer guidance.",negative,medium,supply_chain
+Company officials said retail data suggests cautious shopping patterns in the latest report.,neutral,low,retail
+"Traders said major indexes rise as confidence returns to markets, as investors looked for clearer guidance.",positive,low,markets
+Global investors responded as industry outlook remains mixed but generally stable this quarter.,neutral,low,technology
+Home sales slump as mortgage costs remain elevated as analysts reassess the outlook.,negative,high,housing
+Price growth remains uncomfortably high despite earlier signs of cooling; with policymakers watching closely in the latest report.,negative,high,inflation
+Housing market shows signs of stabilization as listings improve as analysts reassess the outlook.,positive,low,housing
+Analysts noted that supply chain disruptions delay shipments and raise business costs according to new data.,negative,medium,supply_chain
+Inflation reaccelerates as housing and food costs climb faster than expected; while analysts debated next steps late Thursday.,negative,high,inflation
+Lower tariff pressure supports exporter confidence in the latest report.,positive,low,trade
+"Company officials said better affordability supports a pickup in housing activity, as investors looked for clearer guidance.",positive,low,housing
+"Resilient consumer spending supports upbeat sales growth amid shifting economic conditions, as investors looked for clearer guidance.",positive,low,retail
+Bank reports moderate loan growth and stable fee income; as investors looked for clearer guidance late Thursday.,neutral,medium,banking
+Cooling policy concerns lift hopes for business investment; as businesses adjusted forecasts this quarter.,positive,low,rates
+Company officials said higher interest rates squeeze borrowing and slow business activity in the latest report.,negative,high,rates
+Borrowing costs climb and increase pressure on leveraged firms after recent policy changes.,negative,high,rates
+Transport delays and shortages pressure company margins; while analysts debated next steps as analysts reassess the outlook.,negative,medium,supply_chain
+"Economists warned that cooling inflation supports optimism about the economic outlook, while analysts debated next steps.",positive,low,inflation
+Healthy credit quality supports upbeat lender results late Thursday.,positive,low,banking
+"Improving confidence helps boost shopping demand amid shifting economic conditions, while executives urged caution.",positive,low,retail
+New data suggests inflation is moderating gradually; despite earlier optimism this quarter.,neutral,medium,inflation
+Employer adjusts staffing levels in response to shifting demand; while executives urged caution this quarter.,neutral,medium,layoffs
+Analysts say trade conditions are stable but fragile in the latest report.,neutral,medium,trade
+"Lower yields support growth sensitive sectors in a fresh update, with policymakers watching closely.",positive,low,rates
+"Falling rate expectations improve the outlook for borrowers this quarter, as businesses adjusted forecasts.",positive,low,rates
+"U.S. markets reacted after consumer prices show modest monthly gains in the latest report, as investors looked for clearer guidance.",neutral,medium,inflation
+"Lender says deposits remain broadly steady this quarter in the latest report, even as demand remained uneven.",neutral,medium,banking
+"Economists warned that lower crude costs reduce pressure on transport firms, while analysts debated next steps.",positive,low,oil
+U.S. markets reacted after residential trends suggest a cautious but stable market after recent policy changes.,neutral,medium,housing
+U.S. markets reacted after banking shares fall as deposit outflows raise concern during early trading.,negative,high,banking
+"Economists warned that businesses welcome signs of smoother international trade flows, while executives urged caution.",positive,low,trade
+Analysts noted that better demand allows management to reduce expected layoffs during early trading.,positive,low,layoffs
+Builder confidence rises on stronger buyer interest in the latest report.,positive,low,housing
+Analysts noted that inflation cools more than expected as energy and food prices soften in a fresh update.,positive,low,inflation
+Global investors responded as retail sales weaken as consumers cut discretionary spending after recent policy changes.,negative,medium,retail
+Transport networks recover and reduce pressure on producers; even as demand remained uneven amid shifting economic conditions.,positive,low,supply_chain
+"Home prices show modest movement in the latest data according to new data, as businesses adjusted forecasts.",neutral,medium,housing
+Stocks move sideways ahead of a key policy decision; while analysts debated next steps amid shifting economic conditions.,neutral,low,markets
+Employer adjusts staffing levels in response to shifting demand according to new data.,neutral,medium,layoffs
+"Analysts noted that fresh data points to broader easing across key inflation categories, with policymakers watching closely.",positive,low,inflation
+"Improved margins lift banking profits above forecasts in the latest report, as investors looked for clearer guidance.",positive,low,banking
+"Policymakers signal rates may stay elevated for some time this quarter, while analysts debated next steps.",neutral,medium,rates
+"Investor optimism pushes markets higher after positive data during the latest earnings season, even as demand remained uneven.",positive,low,markets
+"U.S. markets reacted after retailer warns of softer demand in the months ahead, as investors looked for clearer guidance.",negative,medium,retail
+Transport delays and shortages pressure company margins according to new data.,negative,medium,supply_chain
+"Global investors responded as company posts modest growth and a cautious outlook, even as demand remained uneven.",neutral,low,earnings
+Analysts noted that bond markets show limited movement as traders await guidance as analysts reassess the outlook.,neutral,medium,rates
+Bond yields jump as investors brace for tighter policy; even as demand remained uneven late Thursday.,negative,high,rates
+Company officials said consumer demand remains steady but uneven among merchants in a fresh update.,neutral,low,retail
+"Global investors responded as oil prices hold near recent levels as traders monitor supply and demand, as investors looked for clearer guidance.",neutral,low,oil
+Cloud growth accelerates and lifts the technology outlook amid shifting economic conditions.,positive,low,technology
+Energy costs spike as traders price in lower supply; while executives urged caution amid shifting economic conditions.,negative,medium,oil
+"U.S. markets reacted after price growth remains uncomfortably high despite earlier signs of cooling, even as demand remained uneven.",negative,high,inflation
+Hiring in priority areas offsets some restructuring cuts; despite earlier optimism according to new data.,positive,low,layoffs
+"Prices rise at the slowest pace in months, helping households as analysts reassess the outlook, even as demand remained uneven.",positive,low,inflation
+Export demand weakens as global trade conditions deteriorate; while analysts debated next steps late Thursday.,negative,high,trade
+Analysts noted that quarterly profit remains stable despite mixed market conditions during the latest earnings season.,neutral,low,earnings
+"Supply fears send crude sharply higher and pressure inflation after recent policy changes, while executives urged caution.",negative,medium,oil
+"Price growth remains uncomfortably high despite earlier signs of cooling after recent policy changes, while executives urged caution.",negative,high,inflation
+Global investors responded as large layoffs raise fears of broader labor market weakness according to new data.,negative,high,layoffs
+Consumer demand remains steady but uneven among merchants during the latest earnings season.,neutral,low,retail
+"Software company reports losses as spending rises after recent policy changes, as volatility stayed elevated.",negative,medium,technology
+"Retail data suggests cautious shopping patterns in a fresh update, even as demand remained uneven.",neutral,low,retail
+Profit falls sharply as margins contract across major segments as analysts reassess the outlook.,negative,medium,earnings
+Cloud revenue misses estimates and weighs on shares; as businesses adjusted forecasts in the latest report.,negative,medium,technology
+"Energy markets show modest moves amid balanced conditions amid shifting economic conditions, as volatility stayed elevated.",neutral,low,oil
+Businesses warn that tariff pressure will hurt margins; while executives urged caution in a fresh update.,negative,high,trade
+"Bank reports moderate loan growth and stable fee income amid shifting economic conditions, as investors looked for clearer guidance.",neutral,medium,banking
+Stocks move sideways ahead of a key policy decision this quarter.,neutral,low,markets
+Better demand allows management to reduce expected layoffs during early trading.,positive,low,layoffs
+Price trends remain uneven across major spending categories amid shifting economic conditions.,neutral,medium,inflation
+"Traders said stocks slide as recession fears and weak data unsettle investors, with policymakers watching closely.",negative,medium,markets
+Traders said housing affordability worsens as prices and rates stay high after recent policy changes.,negative,high,housing
+"Global investors responded as crude remains stable in quiet trading, while executives urged caution.",neutral,low,oil
+Businesses welcome signs of smoother international trade flows; even as demand remained uneven during the latest earnings season.,positive,low,trade
+"Residential trends suggest a cautious but stable market this quarter, as volatility stayed elevated.",neutral,medium,housing
+Mortgage demand stabilizes after recent volatility; even as demand remained uneven during the latest earnings season.,neutral,medium,housing
+U.S. markets reacted after retail sales weaken as consumers cut discretionary spending during the latest earnings season.,negative,medium,retail
+Quarterly earnings disappoint as consumer demand softens as analysts reassess the outlook.,negative,medium,earnings
+Supply networks remain stable despite isolated delays during the latest earnings season.,neutral,low,supply_chain
+Residential sales improve after financing conditions ease during the latest earnings season.,positive,low,housing
+"Traders said banking shares fall as deposit outflows raise concern, as investors looked for clearer guidance.",negative,high,banking
+Company officials said executives describe banking conditions as cautious but manageable in the latest report.,neutral,medium,banking
+Manufacturers warn of continued supply chain strain this quarter.,negative,medium,supply_chain
+Inflation cools more than expected as energy and food prices soften as analysts reassess the outlook.,positive,low,inflation
+Cooling inflation supports optimism about the economic outlook in a fresh update.,positive,low,inflation
+Global investors responded as software firm beats expectations on enterprise spending in a fresh update.,positive,low,technology
+Export and import data show mixed but stable trends this quarter.,neutral,medium,trade
+"Residential sales improve after financing conditions ease after recent policy changes, while executives urged caution.",positive,low,housing
+"Inflation data comes in mixed as goods prices ease but services remain firm during the latest earnings season, as businesses adjusted forecasts.",neutral,medium,inflation
+Global investors responded as weak spending trends weigh on the retail outlook during the latest earnings season.,negative,medium,retail
+Retail data suggests cautious shopping patterns in the latest report.,neutral,low,retail
+Export and import data show mixed but stable trends; with policymakers watching closely this quarter.,neutral,medium,trade
+Company scales back planned layoffs after conditions improve; while analysts debated next steps as analysts reassess the outlook.,positive,low,layoffs
+"Tech company raises forecast after strong product demand this quarter, as volatility stayed elevated.",positive,low,technology
+"Mortgage demand stabilizes after recent volatility as analysts reassess the outlook, as volatility stayed elevated.",neutral,medium,housing
+"Sales decline raises concern about household confidence in a fresh update, as investors looked for clearer guidance.",negative,medium,retail
+Improving confidence helps boost shopping demand; as volatility stayed elevated after recent policy changes.,positive,low,retail
+Global investors responded as thousands of jobs are cut after weaker than expected sales according to new data.,negative,high,layoffs
+Analysts noted that supply chain pressures ease as shipping times improve amid shifting economic conditions.,positive,low,supply_chain
+"Profit jumps as demand improves across key business lines during early trading, as businesses adjusted forecasts.",positive,low,earnings
+Chipmaker warns of slower orders across key markets after recent policy changes.,negative,medium,technology
+Lower yields support growth sensitive sectors in a fresh update.,positive,low,rates
+"Company officials said inflation reaccelerates as housing and food costs climb faster than expected, despite earlier optimism.",negative,high,inflation
+Traders said trade tensions intensify and threaten cross border supply chains in the latest report.,negative,high,trade
+"Trade outlook improves as tensions ease between major partners late Thursday, as businesses adjusted forecasts.",positive,low,trade
+"U.S. markets reacted after improving trade conditions support broader growth expectations, with policymakers watching closely.",positive,low,trade
+"Analysts noted that tech firm cuts forecast after weaker enterprise demand, while analysts debated next steps.",negative,medium,technology
+Markets trade mixed as investors assess incoming data; with policymakers watching closely amid shifting economic conditions.,neutral,low,markets
+Traders said revenue miss and cautious guidance send shares lower amid shifting economic conditions.,negative,medium,earnings
+Economists warned that operational recovery softens the impact of planned job cuts in the latest report.,positive,low,layoffs
+Economists warned that company announces mass layoffs as restructuring deepens this quarter.,negative,high,layoffs
+Traders said energy prices fall after major producers lift output during the latest earnings season.,positive,low,oil
+Energy prices fall after major producers lift output after recent policy changes.,positive,low,oil
+Economists warned that store traffic falls and pressures quarterly sales after recent policy changes.,negative,medium,retail
+"Major indexes rise as confidence returns to markets in the latest report, while executives urged caution.",positive,low,markets
+"Trade dispute sparks concern about slower international growth amid shifting economic conditions, as businesses adjusted forecasts.",negative,high,trade
+"Residential trends suggest a cautious but stable market amid shifting economic conditions, as investors looked for clearer guidance.",neutral,medium,housing
+"Cooling policy concerns lift hopes for business investment amid shifting economic conditions, as businesses adjusted forecasts.",positive,low,rates
+Oil prices jump after supply disruptions tighten the market; as volatility stayed elevated in the latest report.,negative,medium,oil
+Traders said management keeps guidance unchanged after balanced results after recent policy changes.,neutral,low,earnings
+"Earnings release reflects steady performance across core operations in the latest report, as businesses adjusted forecasts.",neutral,low,earnings
+"Record quarterly profit boosts investor confidence according to new data, despite earlier optimism.",positive,low,earnings
+"U.S. markets reacted after executives report balanced retail trends this quarter, as investors looked for clearer guidance.",neutral,low,retail
+"Employer adjusts staffing levels in response to shifting demand as analysts reassess the outlook, as volatility stayed elevated.",neutral,medium,layoffs
+"Economists warned that export demand weakens as global trade conditions deteriorate, while executives urged caution.",negative,high,trade
+"Quarterly profit remains stable despite mixed market conditions in a fresh update, as volatility stayed elevated.",neutral,low,earnings
+Financial institution maintains outlook after mixed results after recent policy changes.,neutral,medium,banking
+Cooling policy concerns lift hopes for business investment; even as demand remained uneven during early trading.,positive,low,rates
+"Global investors responded as residential demand weakens amid rising financing costs, as businesses adjusted forecasts.",negative,high,housing
+"Tech company reports steady growth in core segments as analysts reassess the outlook, as investors looked for clearer guidance.",neutral,low,technology
+"U.S. markets reacted after inflation reaccelerates as housing and food costs climb faster than expected, while analysts debated next steps.",negative,high,inflation
+"U.S. markets reacted after chipmaker warns of slower orders across key markets, even as demand remained uneven.",negative,medium,technology
+Management says staffing changes are focused on cost control this quarter.,neutral,medium,layoffs
+"Company officials said mortgage demand stabilizes after recent volatility, as businesses adjusted forecasts.",neutral,medium,housing
+Higher defaults pressure the sector's outlook after recent policy changes.,negative,high,banking
+Traders said cooling policy concerns lift hopes for business investment late Thursday.,positive,low,rates
+Traders said businesses warn that tariff pressure will hurt margins according to new data.,negative,high,trade
+"U.S. markets reacted after trading remains muted as investors wait for fresh signals, while analysts debated next steps.",neutral,low,markets
+Company officials said price trends remain uneven across major spending categories late Thursday.,neutral,medium,inflation
+"Lower logistics costs help businesses rebuild margins after recent policy changes, with policymakers watching closely.",positive,low,supply_chain
+"Traders said analysts say trade conditions are stable but fragile, as investors looked for clearer guidance.",neutral,medium,trade
+Operational recovery softens the impact of planned job cuts in a fresh update.,positive,low,layoffs
+"Global investors responded as lender faces investigation after reporting major losses, even as demand remained uneven.",negative,high,banking
+"Traders said bank shares rise after better than expected earnings, with policymakers watching closely.",positive,low,banking
+"Traders said manufacturers report smoother deliveries and better inventory flow, even as demand remained uneven.",positive,low,supply_chain
+Fresh inflation data deepens concern about rising living costs; while analysts debated next steps late Thursday.,negative,high,inflation
+Housing affordability worsens as prices and rates stay high during early trading.,negative,high,housing
+"Economists warned that markets retreat as investors move away from risk assets, despite earlier optimism.",negative,medium,markets
+Energy markets show modest moves amid balanced conditions during early trading.,neutral,low,oil
+Analysts noted that company announces mass layoffs as restructuring deepens according to new data.,negative,high,layoffs
+Weak spending trends weigh on the retail outlook this quarter.,negative,medium,retail
+Global investors responded as cooling policy concerns lift hopes for business investment during the latest earnings season.,positive,low,rates
+"Global investors responded as markets welcome signs that rate pressure may ease, while executives urged caution.",positive,low,rates
+Major indexes end little changed in cautious trading; despite earlier optimism amid shifting economic conditions.,neutral,low,markets
+Oil futures stay range bound as analysts watch inventories in the latest report.,neutral,low,oil
+"U.S. markets reacted after fresh data points to broader easing across key inflation categories, as volatility stayed elevated.",positive,low,inflation
+"Sales decline raises concern about household confidence late Thursday, despite earlier optimism.",negative,medium,retail
+"Shipping activity stabilizes after recent disruptions in a fresh update, while analysts debated next steps.",neutral,low,supply_chain
+"Retail sales weaken as consumers cut discretionary spending during early trading, despite earlier optimism.",negative,medium,retail
+"Global investors responded as enterprise software demand remains stable despite budget caution, even as demand remained uneven.",neutral,low,technology
+Price growth remains uncomfortably high despite earlier signs of cooling; while executives urged caution during early trading.,negative,high,inflation
+Retail sales rise as shoppers respond to promotions; while executives urged caution after recent policy changes.,positive,low,retail
+Supply networks remain stable despite isolated delays late Thursday.,neutral,low,supply_chain
+Global investors responded as better affordability supports a pickup in housing activity during the latest earnings season.,positive,low,housing
+Traders said improving trade conditions support broader growth expectations in a fresh update.,positive,low,trade
+"Businesses warn that tariff pressure will hurt margins in the latest report, while executives urged caution.",negative,high,trade
+Software company reports losses as spending rises; despite earlier optimism this quarter.,negative,medium,technology
+Retailer posts better than expected quarterly performance as analysts reassess the outlook.,positive,low,retail
+Lower price pressures lift hopes for improved consumer spending during early trading.,positive,low,inflation
+"Economists warned that record quarterly profit boosts investor confidence, while executives urged caution.",positive,low,earnings
+Better demand allows management to reduce expected layoffs this quarter.,positive,low,layoffs
+"U.S. markets reacted after supply fears send crude sharply higher and pressure inflation, while executives urged caution.",negative,medium,oil
+Company posts modest growth and a cautious outlook; as volatility stayed elevated after recent policy changes.,neutral,low,earnings
+Company officials said energy markets show modest moves amid balanced conditions this quarter.,neutral,low,oil
+"Better affordability supports a pickup in housing activity during early trading, even as demand remained uneven.",positive,low,housing
+"Profit falls sharply as margins contract across major segments amid shifting economic conditions, as businesses adjusted forecasts.",negative,medium,earnings
+"Delivery problems increase costs and disrupt production schedules during the latest earnings season, as investors looked for clearer guidance.",negative,medium,supply_chain
+Indexes finish sharply lower after disappointing economic signals this quarter.,negative,medium,markets
+"Analysts noted that cloud revenue misses estimates and weighs on shares, even as demand remained uneven.",negative,medium,technology
+Traders said lower mortgage rates help revive homebuyer demand as analysts reassess the outlook.,positive,low,housing
+Cloud growth accelerates and lifts the technology outlook; as businesses adjusted forecasts late Thursday.,positive,low,technology
+Global investors responded as crude surges on geopolitical tension and output concerns as analysts reassess the outlook.,negative,medium,oil
